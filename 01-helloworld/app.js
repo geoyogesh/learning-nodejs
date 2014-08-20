@@ -8,4 +8,8 @@ http.createServer(function(request, response){
 }).listen(3000);
 
 //npm install -g nodemon
-//
+//nodemon app.js
+
+ //node app.js --debug
+ //node-debug app.js
+ //node-inspector
