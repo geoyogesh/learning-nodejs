@@ -1,3 +1,5 @@
+
+//http://docs.nodejitsu.com/articles/file-system/how-to-read-files-in-nodejs
 // Load module dependencies
 var http = require('http'),
 fs = require('fs');
